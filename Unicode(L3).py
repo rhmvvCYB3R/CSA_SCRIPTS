@@ -229,6 +229,7 @@ def utf8_task_7():
     # 2147483647 in binary (32 bits) is 01111111 11111111 11111111 11111111
     return "01111111 11111111 11111111 11111111"
 
+
 def menu():
     while True:
         print("""
